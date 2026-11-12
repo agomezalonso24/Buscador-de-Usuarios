@@ -4,11 +4,11 @@ En este repositorio voy a crear la práctica de prueba del buscador de usuarios 
 
 ## Paso 1
 
-En el paso 1 hemos creado el Header con el logo y el mensaje de bienvenida así como h2 de buscador de usuarios el input de texto y el botón de buscar
+En el paso 1 hemos creado el Header con el logo y el mensaje de bienvenida así como h2 de buscador de usuarios el input de texto y el botón de buscar.
 
 ## Paso 2
 
-En el paso 2 hemos implementado el botón de buscar y el componente resultados para que muestren los datos de mock1, aún el input de texto no funciona por lo que muestra siempre toda la lista de usuarios
+En el paso 2 hemos implementado el botón de buscar y el componente resultados para que muestren los datos de mock1, aún el input de texto no funciona por lo que muestra siempre toda la lista de usuarios.
 
 ## Paso 3
 
@@ -16,5 +16,8 @@ En el paso 3 hemos añadido la llamada al servidor, esto lo hemos hecho con una 
 
 ## Paso 4
 
-En el paso 4 se ha implementado la funcionalidad para que el input que escriba el usuario filtre la lista que nos devuelve el servidor. Además se ha añadido el botón Buscar Todos
+En el paso 4 se ha implementado la funcionalidad para que el input que escriba el usuario filtre la lista que nos devuelve el servidor. Además se ha añadido el botón Buscar Todos.
 
+## Paso 5
+
+Por último en el paso 5 se ha tratado el error, creando un mensaje que muestra al usuario que ha ocurrido un error y de que tipo. Además se ha pasado el input y el botón de buscar se han llevado un nuevo componente Formulario.jsx
