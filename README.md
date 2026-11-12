@@ -9,3 +9,7 @@ En el paso 1 hemos creado el Header con el logo y el mensaje de bienvenida así 
 ## Paso 2
 
 En el paso 2 hemos implementado el botón de buscar y el componente resultados para que muestren los datos de mock1, aún el input de texto no funciona por lo que muestra siempre toda la lista de usuarios
+
+## Paso 3
+
+En el paso 3 hemos añadido la llamada al servidor, esto lo hemos hecho con una función asíncrona y un fetch
