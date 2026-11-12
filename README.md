@@ -12,4 +12,9 @@ En el paso 2 hemos implementado el botón de buscar y el componente resultados p
 
 ## Paso 3
 
-En el paso 3 hemos añadido la llamada al servidor, esto lo hemos hecho con una función asíncrona y un fetch
+En el paso 3 hemos añadido la llamada al servidor, esto lo hemos hecho con una función asíncrona y un fetch.
+
+## Paso 4
+
+En el paso 4 se ha implementado la funcionalidad para que el input que escriba el usuario filtre la lista que nos devuelve el servidor. Además se ha añadido el botón Buscar Todos
+
